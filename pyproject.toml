@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools >= 61.0", "wheel", "setuptools-git-versioning>=2.0,<3"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+include-package-data = false
+packages.find.include = []
+
+[tool.setuptools-git-versioning]
+enabled = true
+dev_template = "{tag}"
+dirty_template = "{tag}"
+tag_filter = "v?\\d+(\\.\\d+)*.*"
+
+[project]
+name = "chatbot-app"
+dynamic = ["version"]
+requires-python = ">= 3.10"
+description = "Chatbot App"
+dependencies = [
+    "chatbot @ git+https://github.com/Cinnamon/chatbot.git@main#subdirectory=libs/chatbot",
+    "chatbot_app @ git+https://github.com/Cinnamon/chatbot.git@main#subdirectory=libs/chatbot_app"
+]
+authors = [
+    { name = "@trducng", email = "john@cinnamon.is" },
+    { name = "@lone17", email = "ian@cinnamon.is" },
+    { name = "@taprosoft", email = "tadashi@cinnamon.is" },
+    { name = "@cin-albert", email = "albert@cinnamon.is" },
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://cinnamon.github.io/chatbot/"
+Repository = "https://github.com/Cinnamon/chatbot/"
+Documentation = "https://cinnamon.github.io/chatbot/"
+
+[tool.codespell]
+skip = "*.js,*.css,*.map"
+# `llm` abbreviation for large language models
+ignore-words-list = "llm,fo"
+quiet-level = 3
+check-filenames = ""
+
+[tool.isort]
+known_first_party = ["chatbot"]

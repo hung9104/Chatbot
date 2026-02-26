@@ -1,0 +1,421 @@
+﻿cau_hoi,intent,entities_required,response_type,tra_loi,is_template_row,note
+Chính sách miễn giảm học phí,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,0,
+Ai được miễn giảm học phí,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn đang hỏi theo diện nào (hộ nghèo/chính sách/khác) để mình hỗ trợ.,0,
+Miễn giảm học phí gồm những trường hợp nào,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết diện miễn giảm bạn quan tâm để mình cung cấp thông tin.,0,
+Thủ tục xin miễn giảm học phí,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết diện miễn giảm và học kỳ/năm học để mình hướng dẫn.,0,
+Giảm học phí như thế nào,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào để mình hỗ trợ chính xác.,0,
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #1 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #2 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #3 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #4 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #5 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #6 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #7 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #8 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #9 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #10 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #11 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #12 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #13 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #14 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #15 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #16 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #17 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #18 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #19 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #20 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #21 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #22 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #23 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #24 cho intent chinh_sach_mien_giam
+,chinh_sach_mien_giam,doi_tuong,faq,Bạn vui lòng cho biết bạn thuộc diện nào và học kỳ/năm học áp dụng để mình hỗ trợ.,1,Bo sung cau hoi mau #25 cho intent chinh_sach_mien_giam
+Điều kiện cảnh báo học vụ,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,0,
+Khi nào bị cảnh báo học vụ,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu.,0,
+Tiêu chí bị cảnh báo học vụ,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu.,0,
+Cảnh báo học vụ dựa vào gì,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu.,0,
+Điểm bao nhiêu thì bị cảnh báo,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết học kỳ/năm học và chương trình đào tạo để mình tra cứu.,0,
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #1 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #2 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #3 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #4 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #5 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #6 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #7 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #8 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #9 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #10 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #11 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #12 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #13 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #14 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #15 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #16 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #17 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #18 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #19 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #20 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #21 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #22 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #23 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #24 cho intent dieu_kien_canh_bao_hoc_vu
+,dieu_kien_canh_bao_hoc_vu,hoc_ky|nam_hoc,faq,Bạn vui lòng cho biết chương trình đào tạo và học kỳ/năm học để mình tra cứu điều kiện cảnh báo học vụ.,1,Bo sung cau hoi mau #25 cho intent dieu_kien_canh_bao_hoc_vu
+Điều kiện xét tốt nghiệp,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,0,
+Muốn tốt nghiệp cần gì,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,0,
+Tiêu chí xét tốt nghiệp,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,0,
+Điều kiện ra trường,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,0,
+Xét tốt nghiệp dựa trên gì,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,0,
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #1 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #2 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #3 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #4 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #5 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #6 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #7 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #8 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #9 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #10 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #11 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #12 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #13 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #14 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #15 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #16 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #17 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #18 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #19 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #20 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #21 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #22 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #23 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #24 cho intent dieu_kien_xet_tot_nghiep
+,dieu_kien_xet_tot_nghiep,"nganh|he_dao_tao,khoa_hoc",faq,Bạn vui lòng cho biết ngành và khóa học để mình tra cứu điều kiện xét tốt nghiệp.,1,Bo sung cau hoi mau #25 cho intent dieu_kien_xet_tot_nghiep
+Học phí ngành CNTT bao nhiêu,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,0,
+Học phí theo ngành,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,0,
+Học phí ngành của mình,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,0,
+Học phí chương trình chất lượng cao,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành và học kỳ/năm học để mình tra cứu học phí theo ngành.,0,
+Học phí hệ đại trà theo ngành,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành và học kỳ/năm học để mình tra cứu học phí theo ngành.,0,
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #1 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #2 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #3 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #4 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #5 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #6 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #7 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #8 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #9 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #10 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #11 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #12 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #13 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #14 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #15 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #16 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #17 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #18 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #19 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #20 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #21 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #22 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #23 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #24 cho intent hoc_phi_theo_nganh
+,hoc_phi_theo_nganh,"nganh,khoa_hoc|nam_hoc",hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình tra cứu học phí theo ngành.,1,Bo sung cau hoi mau #25 cho intent hoc_phi_theo_nganh
+Một tín chỉ bao nhiêu tiền,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,0,
+Học phí theo tín chỉ tính sao,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và số tín chỉ dự kiến để mình ước tính học phí.,0,
+Học phí 18 tín chỉ,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và học kỳ/năm học để mình ước tính học phí theo tín chỉ.,0,
+Giá tín chỉ của trường,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,0,
+Học phí tính theo số tín chỉ,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và số tín chỉ dự kiến để mình ước tính.,0,
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #1 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #2 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #3 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #4 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #5 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #6 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #7 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #8 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #9 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #10 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #11 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #12 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #13 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #14 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #15 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #16 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #17 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #18 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #19 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #20 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #21 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #22 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #23 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #24 cho intent hoc_phi_theo_tin_chi
+,hoc_phi_theo_tin_chi,so_tin_chi|nganh,hybrid,Bạn vui lòng cho biết ngành/chương trình và năm học để mình tra cứu đơn giá tín chỉ.,1,Bo sung cau hoi mau #25 cho intent hoc_phi_theo_tin_chi
+Cho hỏi lịch học,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",0,
+Lịch học của mình,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",0,
+Lịch học hôm nay,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu.,0,
+Lịch học tuần này,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và tuần cần xem để mình tra cứu.",0,
+Lịch học môn X,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết mã môn/tên môn, học kỳ và năm học để mình tra cứu lịch học.",0,
+Thời khóa biểu của mình,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu thời khóa biểu.",0,
+Cho xem thời khóa biểu,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu thời khóa biểu.",0,
+TKB học kỳ này,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời khóa biểu.,0,
+Thời khóa biểu theo tuần,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và tuần cần xem để mình tra cứu.",0,
+Xem TKB ở đâu,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết bạn muốn xem trên portal hay LMS để mình hướng dẫn.,0,
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #1 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #2 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #3 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #4 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #5 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #6 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #7 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #8 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #9 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #10 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #11 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #12 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #13 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #14 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #15 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #16 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #17 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #18 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #19 cho intent lich_hoc
+,lich_hoc,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch học.",1,Bo sung cau hoi mau #20 cho intent lich_hoc
+Cho hỏi lịch thi,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",0,
+Lịch thi của mình,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",0,
+Lịch thi cuối kỳ,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu lịch thi cuối kỳ.,0,
+Thi môn X khi nào,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết mã môn/tên môn, học kỳ và năm học để mình tra cứu lịch thi.",0,
+Thi ở phòng nào,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết mã môn/tên môn, học kỳ và năm học để mình tra cứu phòng thi.",0,
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #1 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #2 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #3 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #4 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #5 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #6 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #7 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #8 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #9 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #10 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #11 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #12 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #13 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #14 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #15 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #16 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #17 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #18 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #19 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #20 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #21 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #22 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #23 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #24 cho intent lich_thi
+,lich_thi,"mssv|lop,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết học kỳ, năm học và MSSV (hoặc lớp) để mình tra cứu lịch thi.",1,Bo sung cau hoi mau #25 cho intent lich_thi
+Phòng học hôm nay,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,0,
+Hôm nay học phòng nào,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,0,
+Môn X học phòng nào,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết mã môn/tên môn và buổi học (thứ/tiết) để mình tra cứu phòng.,0,
+Tra cứu phòng học,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết MSSV (hoặc lớp), học kỳ và năm học để mình tra cứu phòng học.",0,
+Phòng học của lớp mình,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,"Bạn vui lòng cho biết lớp, học kỳ và năm học để mình tra cứu phòng học.",0,
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #1 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #2 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #3 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #4 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #5 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #6 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #7 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #8 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #9 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #10 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #11 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #12 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #13 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #14 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #15 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #16 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #17 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #18 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #19 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #20 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #21 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #22 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #23 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #24 cho intent phong_hoc
+,phong_hoc,"ma_mon|ten_mon,ngay|tuan,hoc_ky,nam_hoc",db_query,Bạn vui lòng cho biết MSSV (hoặc lớp) và ngày cần xem để mình tra cứu phòng học.,1,Bo sung cau hoi mau #25 cho intent phong_hoc
+Quy chế đào tạo,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,0,
+Cho xem quy chế đào tạo,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,0,
+Quy chế đào tạo là gì,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,0,
+Xem quy chế đào tạo ở đâu,quy_che_dao_tao,chu_de_quy_che,faq,Bạn muốn xem trên website hay cổng sinh viên (portal) ạ?,0,
+Quy chế đào tạo hiện hành,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,0,
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #1 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #2 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #3 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #4 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #5 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #6 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #7 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #8 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #9 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #10 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #11 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #12 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #13 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #14 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #15 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #16 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #17 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #18 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #19 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #20 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #21 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #22 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #23 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #24 cho intent quy_che_dao_tao
+,quy_che_dao_tao,chu_de_quy_che,faq,Bạn vui lòng cho biết chương trình đào tạo và năm học áp dụng để mình cung cấp đúng quy chế.,1,Bo sung cau hoi mau #25 cho intent quy_che_dao_tao
+Quy định thi lại,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,0,
+Quy định học lại,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,0,
+Rớt môn thì làm sao,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học để mình hướng dẫn theo quy định.,0,
+Thi lại tối đa mấy lần,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học để mình tra cứu quy định.,0,
+Học lại có giới hạn không,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học để mình tra cứu quy định.,0,
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #1 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #2 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #3 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #4 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #5 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #6 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #7 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #8 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #9 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #10 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #11 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #12 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #13 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #14 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #15 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #16 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #17 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #18 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #19 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #20 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #21 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #22 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #23 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #24 cho intent quy_dinh_thi_lai_hoc_lai
+,quy_dinh_thi_lai_hoc_lai,ma_mon|ten_mon,faq,Bạn vui lòng cho biết môn học và học kỳ/năm học áp dụng để mình tra cứu quy định.,1,Bo sung cau hoi mau #25 cho intent quy_dinh_thi_lai_hoc_lai
+Khi nào đóng học phí,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,0,
+Hạn đóng học phí là khi nào,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu hạn đóng học phí.,0,
+Thời gian đóng học phí kỳ này,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,0,
+Đóng học phí lúc nào,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,0,
+Deadline đóng học phí,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu hạn đóng học phí.,0,
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #1 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #2 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #3 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #4 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #5 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #6 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #7 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #8 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #9 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #10 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #11 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #12 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #13 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #14 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #15 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #16 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #17 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #18 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #19 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #20 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #21 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #22 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #23 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #24 cho intent thoi_gian_dong_hoc_phi
+,thoi_gian_dong_hoc_phi,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng học phí.,1,Bo sung cau hoi mau #25 cho intent thoi_gian_dong_hoc_phi
+Thời gian mở hệ thống,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,0,
+Thời gian đóng hệ thống,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,0,
+Khi nào mở portal,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian mở hệ thống.,0,
+Khi nào đóng portal,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng hệ thống.,0,
+Portal mở đến khi nào,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thời gian đóng hệ thống.,0,
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #1 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #2 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #3 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #4 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #5 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #6 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #7 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #8 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #9 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #10 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #11 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #12 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #13 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #14 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #15 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #16 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #17 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #18 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #19 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #20 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #21 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #22 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #23 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #24 cho intent thoi_gian_mo_dong_he_thong
+,thoi_gian_mo_dong_he_thong,"chuc_nang,hoc_ky|dot",faq,Bạn vui lòng cho biết hệ thống nào (portal/LMS) và học kỳ/năm học để mình tra cứu.,1,Bo sung cau hoi mau #25 cho intent thoi_gian_mo_dong_he_thong
+Thông báo đăng ký môn,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,0,
+Thông báo mở đăng ký môn,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo.,0,
+Thông báo đóng đăng ký môn,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo.,0,
+Khi nào có thông báo đăng ký môn,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo.,0,
+Thông báo về đăng ký học phần,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo.,0,
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #1 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #2 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #3 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #4 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #5 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #6 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #7 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #8 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #9 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #10 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #11 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #12 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #13 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #14 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #15 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #16 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #17 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #18 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #19 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #20 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #21 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #22 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #23 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #24 cho intent thong_bao_dang_ky_mon
+,thong_bao_dang_ky_mon,"hoc_ky,nam_hoc",faq,Bạn vui lòng cho biết học kỳ và năm học để mình tra cứu thông báo đăng ký môn.,1,Bo sung cau hoi mau #25 cho intent thong_bao_dang_ky_mon
+Thông báo nghỉ học,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,0,
+Trường có thông báo nghỉ học không,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết ngày/tháng hoặc tuần cần xem để mình tra cứu.,0,
+Hôm nay có nghỉ học không,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết cơ sở/khoa (nếu có) và ngày cần xem để mình tra cứu.,0,
+Thông báo nghỉ do thời tiết,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết ngày và cơ sở/khoa để mình tra cứu.,0,
+Nghỉ học đột xuất,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết ngày và cơ sở/khoa để mình tra cứu.,0,
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #1 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #2 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #3 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #4 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #5 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #6 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #7 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #8 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #9 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #10 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #11 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #12 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #13 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #14 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #15 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #16 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #17 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #18 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #19 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #20 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #21 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #22 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #23 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #24 cho intent thong_bao_nghi_hoc
+,thong_bao_nghi_hoc,thoi_gian|khoa|lop,faq,Bạn vui lòng cho biết khoảng thời gian hoặc tuần cần xem để mình tra cứu thông báo nghỉ học.,1,Bo sung cau hoi mau #25 cho intent thong_bao_nghi_hoc

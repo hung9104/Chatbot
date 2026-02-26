@@ -1,0 +1,4 @@
+include chatbot_app/assets/css/*.css
+include chatbot_app/assets/img/*.svg
+include chatbot_app/assets/js/*.js
+include chatbot_app/assets/md/*.md
