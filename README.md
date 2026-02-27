@@ -414,3 +414,17 @@ Du doan intent cho cau hoi moi:
 $env:PYTHONPATH='libs/chatbot_app'
 .\.venv\Scripts\python.exe scripts/predict_intent.py "Khi nao dong hoc phi hoc ky 2" --model data/models/intent_classifier.joblib
 ```
+
+## Intent Fast Path In Chat
+
+The chat page now supports a lightweight intent-first route before full RAG.
+If the intent model returns a confident FAQ answer, the app responds immediately.
+Otherwise it falls back to the normal reasoning pipeline.
+
+Environment variables:
+
+```bash
+KH_INTENT_ROUTER_ENABLED=true
+KH_INTENT_MODEL_PATH=data/models/intent_classifier.joblib
+KH_INTENT_MIN_CONFIDENCE=0.2
+```

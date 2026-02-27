@@ -6,6 +6,7 @@ from typing import Optional
 
 import gradio as gr
 from decouple import config
+from chatbot_app.intent import IntentClassifier
 from chatbot_app.app import BasePage
 from chatbot_app.components import reasonings
 from chatbot_app.db.models import Conversation, engine
@@ -41,6 +42,15 @@ from .report import ReportIssue
 KH_DEMO_MODE = getattr(flowsettings, "KH_DEMO_MODE", False)
 KH_SSO_ENABLED = getattr(flowsettings, "KH_SSO_ENABLED", False)
 KH_WEB_SEARCH_BACKEND = getattr(flowsettings, "KH_WEB_SEARCH_BACKEND", None)
+KH_INTENT_ROUTER_ENABLED = config(
+    "KH_INTENT_ROUTER_ENABLED", default=True, cast=bool
+)
+KH_INTENT_MODEL_PATH = config(
+    "KH_INTENT_MODEL_PATH", default="data/models/intent_classifier.joblib"
+)
+KH_INTENT_MIN_CONFIDENCE = config(
+    "KH_INTENT_MIN_CONFIDENCE", default=0.2, cast=float
+)
 WebSearch = None
 if KH_WEB_SEARCH_BACKEND:
     try:
@@ -213,6 +223,9 @@ class ChatPage(BasePage):
         self._info_panel_expanded = gr.State(value=True)
         self._command_state = gr.State(value=None)
         self._user_api_key = gr.Text(value="", visible=False)
+
+        self._intent_classifier = None
+        self._intent_router_disabled = False
 
     def on_building_ui(self):
         with gr.Row():
@@ -1165,6 +1178,42 @@ class ChatPage(BasePage):
 
         return retrieval_content, plot_content
 
+    def _try_intent_fast_path(self, chat_input: str, command_state):
+        """Try lightweight intent-based FAQ response before running full RAG."""
+        if not KH_INTENT_ROUTER_ENABLED:
+            return None
+
+        if command_state == WEB_SEARCH_COMMAND:
+            return None
+
+        if self._intent_router_disabled:
+            return None
+
+        if not chat_input or not chat_input.strip():
+            return None
+
+        try:
+            if self._intent_classifier is None:
+                self._intent_classifier = IntentClassifier(
+                    model_path=KH_INTENT_MODEL_PATH,
+                    min_confidence=KH_INTENT_MIN_CONFIDENCE,
+                )
+
+            prediction = self._intent_classifier.predict(chat_input)
+        except Exception as e:
+            print(f"Intent fast path disabled due to error: {e}")
+            self._intent_router_disabled = True
+            return None
+
+        if prediction.get("fallback", True):
+            return None
+
+        response = prediction.get("response")
+        if not response:
+            return None
+
+        return prediction
+
     def create_pipeline(
         self,
         settings: dict,
@@ -1285,6 +1334,25 @@ class ChatPage(BasePage):
         # if chat_input is empty, assume regen mode
         if chat_output:
             chat_state["app"]["regen"] = True
+
+        # quick FAQ path using intent model
+        fast_result = self._try_intent_fast_path(chat_input, command_state)
+        if fast_result:
+            response_text = fast_result["response"]
+            intent_name = fast_result.get("intent", "unknown")
+            confidence = round(float(fast_result.get("confidence", 0.0)), 4)
+            refs = (
+                f"<h5>Intent route: <code>{intent_name}</code> "
+                f"(confidence: {confidence})</h5>"
+            )
+            yield (
+                chat_history + [(chat_input, response_text)],
+                refs,
+                gr.update(visible=False),
+                None,
+                chat_state,
+            )
+            return
 
         queue: asyncio.Queue[Optional[dict]] = asyncio.Queue()
 
