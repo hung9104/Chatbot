@@ -398,3 +398,19 @@ Since our project is actively being developed, we greatly value your feedback an
 <a href="https://github.com/Cinnamon/chatbot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Cinnamon/chatbot" />
 </a>
+
+## Intent Training (Phuong an 2)
+
+Train model intent tu du lieu CSV:
+
+```bash
+$env:PYTHONPATH='libs/chatbot_app'
+.\.venv\Scripts\python.exe scripts/train_intent_model.py --dataset data/intent_expanded_filled_v2.csv --output data/models/intent_classifier.joblib
+```
+
+Du doan intent cho cau hoi moi:
+
+```bash
+$env:PYTHONPATH='libs/chatbot_app'
+.\.venv\Scripts\python.exe scripts/predict_intent.py "Khi nao dong hoc phi hoc ky 2" --model data/models/intent_classifier.joblib
+```
